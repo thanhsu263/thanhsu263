@@ -1,4 +1,4 @@
-# Đặng Trang Thanh Sử
+# Dang Trang Thanh Su
 
 ![Role](https://img.shields.io/badge/Role-Backend%20Developer%20Intern-0A7B83)
 ![University](https://img.shields.io/badge/FPT%20University-Software%20Engineering-F37021)
