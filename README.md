@@ -27,7 +27,16 @@
 
 ## About Me
 
-Third-year Software Engineering student at FPT University Ho Chi Minh City, building Java / Spring Boot and full-stack systems around real business rules: booking, billing, role-based access and quorum approval. I ship deployed products with Swagger API docs and automated tests.
+<table align="center">
+  <tr>
+    <td valign="middle">
+      Third-year Software Engineering student at FPT University Ho Chi Minh City, building Java / Spring Boot and full-stack systems around real business rules: booking, billing, role-based access and quorum approval. I ship deployed products with Swagger API docs and automated tests.
+    </td>
+    <td width="200" align="center" valign="middle">
+      <img src="assets/coding.gif" alt="Pixel developer typing at a keyboard" width="180" />
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
