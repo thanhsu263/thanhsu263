@@ -235,3 +235,7 @@ Looking for a Backend Developer internship. Happy to talk about backend systems,
     <img src="https://img.shields.io/badge/GitHub-thanhsu263-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
 </p>
+
+<p align="center">
+  <img src="assets/footer.gif?v=1" alt="Characters drifting through a pixel starfield" width="100%"/>
+</p>
