@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.webp" alt="Hey! I am Thanh Su - Fullstack developer" width="100%"/>
+</p>
+
 # Dang Trang Thanh Su
 
 ![Role](https://img.shields.io/badge/Role-Backend%20Developer%20Intern-0A7B83)
