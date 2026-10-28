@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Hey! I am Thanh Su - Fullstack developer" width="100%"/>
+  <img src="assets/banner.gif?v=2" alt="Hey! I am Thanh Su - Fullstack developer" width="100%"/>
 </p>
 
 <h1 align="center">Dang Trang Thanh Su</h1>
