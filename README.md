@@ -215,6 +215,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhsu263/thanhsu263/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhsu263/thanhsu263/output/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/thanhsu263/thanhsu263/output/galaga-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
 ## Connect
 
 Looking for a Backend Developer internship. Happy to talk about backend systems, testing, and shipping software that handles real business rules.
