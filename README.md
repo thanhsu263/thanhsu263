@@ -203,8 +203,16 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thanhsu263&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=60a5fa&text_color=e5e7eb&icon_color=60a5fa&ring_color=60a5fa" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhsu263&layout=compact&hide_border=true&bg_color=000000&title_color=60a5fa&text_color=e5e7eb" alt="Top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thanhsu263&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=60a5fa&text_color=e5e7eb&icon_color=60a5fa&ring_color=60a5fa" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thanhsu263&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=1d4ed8&text_color=0f172a&icon_color=1d4ed8&ring_color=1d4ed8" />
+    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thanhsu263&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=1d4ed8&text_color=0f172a&icon_color=1d4ed8&ring_color=1d4ed8" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhsu263&layout=compact&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=e5e7eb" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhsu263&layout=compact&hide_border=true&bg_color=00000000&title_color=1d4ed8&text_color=0f172a" />
+    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhsu263&layout=compact&hide_border=true&bg_color=00000000&title_color=1d4ed8&text_color=0f172a" />
+  </picture>
 </p>
 
 ## Connect
