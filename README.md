@@ -111,7 +111,7 @@
   <tr>
     <td width="100%" valign="top">
       <strong><a href="https://github.com/thanhsu263/smart-teach-vn">SmartTeach – Classes and Quizzes for Teachers</a></strong> &nbsp;<img src="https://img.shields.io/badge/in%20progress-F59E0B?style=flat-square" alt="In progress" /><br />
-      Solo project · 11/2026 – now<br /><br />
+      <a href="https://smartteachvn.vercel.app">Live demo</a> (TypeScript version) · Solo project · 11/2026 – now<br /><br />
       <code>Java 26</code> <code>Spring Boot 4</code> <code>Spring Security (JWT)</code> <code>Spring Data JPA</code> <code>SQL Server</code> <code>Flyway</code> <code>React</code> <code>Testcontainers</code> <code>GitHub Actions</code>
       <ul>
         <li>Web app for Vietnamese high-school teachers to manage classes, build quizzes and give assignments that students open with a personal access code.</li>
@@ -119,7 +119,7 @@
         <li>Classes and students API: every query is scoped to the owning teacher, and access codes are stored only as hashes.</li>
         <li>Integration tests run against a real SQL Server in Testcontainers; CI builds the backend and frontend on every push.</li>
       </ul>
-      <sub>Java rebuild of my earlier TypeScript version, still live at <a href="https://smartteachvn.vercel.app">smartteachvn.vercel.app</a>.</sub>
+      <sub>Java rebuild of my earlier TypeScript version; the Java version is not deployed yet.</sub>
     </td>
   </tr>
   <tr>
