@@ -98,15 +98,11 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="44" height="44"/>&nbsp;
-  <img src="assets/icons/testng.png" alt="TestNG" title="TestNG" width="44" height="44"/>&nbsp;
-  <img src="assets/icons/jacoco.png" alt="JaCoCo" title="JaCoCo" width="44" height="44"/>&nbsp;
-  <img src="assets/icons/testcontainers.svg" alt="Testcontainers" title="Testcontainers" width="44" height="44"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" alt="k6" title="k6" width="44" height="44"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/sonarqubeserver/126ED3" alt="SonarQube" title="SonarQube" width="44" height="44"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="44" height="44"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="44" height="44"/>&nbsp;
   <img src="https://cdn.simpleicons.org/github/888888" alt="GitHub" title="GitHub" width="44" height="44"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="44" height="44"/>&nbsp;
 </p>
 
 ## Projects
